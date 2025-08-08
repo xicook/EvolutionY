@@ -1,4 +1,4 @@
-![Alt text](https://github.com/xicook/xicoGSI/xicoGSILogo.png)
+![Alt text](https://github.com/xicook/xicoGSI/assets/xicoGSILogo.png)
 
 # xicoGSI
 
