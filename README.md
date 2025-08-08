@@ -1,3 +1,5 @@
+![Alt text](https://github.com/xicook/xicoGSI/xicoGSILogo.png)
+
 # xicoGSI
 
 COMMING SOON!!!!!!!!!!!!!!!!!
