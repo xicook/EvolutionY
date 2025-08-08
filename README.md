@@ -1,6 +1,6 @@
-![Alt text](/xicoGSILogo.png)
+![Alt text](EvoYLogo.png)
 
-# xicoGSI
+# EvolutionY (Yellow)
 
 # BASED ON TREBLE_AOSP FROM PONCES
 
