@@ -1,4 +1,4 @@
-![Alt text](EvoYLogo.png)
+![Alt text](EvolutionYLogo.png)
 
 # EvolutionY (Yellow)
 
