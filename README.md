@@ -10,6 +10,4 @@ Feratures:
 
 Pixel 9 Boot Animation
 
-MicroG, not Google Play Services
-
-more soon
+Spoof Device for Pixel 9
