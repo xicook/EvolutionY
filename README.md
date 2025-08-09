@@ -1,6 +1,6 @@
 ![Alt text](EvolutionYLogo.png)
 
-# EvolutionY (Yellow)
+# EvolutionY
 
 # BASED ON TREBLE_AOSP FROM PONCES
 
