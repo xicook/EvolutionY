@@ -6,8 +6,8 @@
 
 COMMING SOON!!!!!!!!!!!!!!!!!
 
-Feratures:
+# Feratures:
 
-Pixel 9 Boot Animation
+## Pixel 9 Boot Animation
 
-Spoof Device for Pixel 9
+## Spoof Device for Pixel 9
